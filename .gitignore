@@ -1,0 +1,16 @@
+# devnet 本地/生成物
+.sealtun/
+*.log
+*.pid
+*.bak
+*.bak-*
+*.pre-existing-*
+_recovery_backup_*
+_recovery_*
+.DS_Store
+*.tmp
+*.swp
+__pycache__/
+*.pyc
+.env
+node_modules/
